@@ -8,4 +8,4 @@ Este repo contiene las practicas hechas dentro del modulo de React de la carrera
 
 2.- Instala las dependencias: `npm install`
 
-3.- Corre la app: `npm star start`
+3.- Corre la app: `npm star`
