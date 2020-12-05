@@ -1,3 +1,27 @@
 .App {
   text-align: center;
 }
+
+.counter {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 50%;
+}
+
+.school {
+  text-align: center;
+  margin-top: 20%;
+}
+
+.card {
+  border: 5px solid lightgray;
+  width: 50%;
+  margin: 5rem auto;
+  display: flex;
+  flex-direction: column;
+}
+.card * {
+  margin: 1rem 0;
+}
