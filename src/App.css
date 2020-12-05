@@ -25,3 +25,16 @@
 .card * {
   margin: 1rem 0;
 }
+
+nav ul {
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+
+  margin: 0;
+  padding: 0 3rem;
+}
+
+nav ul li {
+  margin: 1rem 0;
+}
